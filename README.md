@@ -8,7 +8,7 @@ Hi, I'm Cotton
 - 🛡️ network-side DNS filter (raspberry pi + pi-hole)
 - 💻 portable pentest lab (Kali Linux on raspberry pi)
 - 🍯 HoneyPot to detect network intusions (OpenCanary)
-- 📡 PiWatch - home network monitor with live web dashboard
+- 📡 PiWatch - home network monitor with live web dashboard (using Python and Flask)
 
 🌱 I’m currently learning:
 - networking · linux · web security · IoT/hardware security
@@ -18,3 +18,16 @@ Hi, I'm Cotton
 
 📫 How to reach me:
 - email cottonisabunny@gmail.com
+
+🛠️ Skills & Tools:
+**Hardware**
+Raspberry Pi, Arduino
+
+**Networking**
+Nmap, Wireshark, Pi-hole, DNS
+
+**Languages**
+Python, Bash, Java
+
+**Tools**
+Git, GitHub, Linux, Flask, SSH
