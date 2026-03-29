@@ -23,9 +23,12 @@ Hi, I'm Cotton
 
 **Hardware**
 Raspberry Pi, Arduino
+
 **Networking**
 Nmap, Wireshark, Pi-hole, DNS
+
 **Languages**
 Python, Bash, Java
+
 **Tools**
 Git, GitHub, Linux, Flask, SSH
