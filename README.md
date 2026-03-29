@@ -17,3 +17,4 @@ Hi, I'm Cotton
 - I'm particularly interested in the intersection of cybersecurity and healthcare- working with a medical consultancy gives me a perspective on why data protection and network security matter in clinical environments.
 
 📫 How to reach me:
+- email cottonisabunny@gmail.com
