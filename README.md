@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Redditor2/Redditor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Cotton
+- 1st year CS student
+- IT trainee - exploring network and IoT/hardware security
 
-Here are some ideas to get you started:
+🔭 What I'm building:
+- 🛡️ network-side DNS filter (raspberry pi + pi-hole)
+- 💻 portable pentest lab (Kali Linux on raspberry pi)
+- 🍯 HoneyPot to detect network intusions (OpenCanary)
+- 📡 PiWatch - home network monitor with live web dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- networking · linux · web security · IoT/hardware security
+
+🩺 Healthcare + security:
+- I'm particularly interested in the intersection of cybersecurity and healthcare- working with a medical consultancy gives me a perspective on why data protection and network security matter in clinical environments.
+
+📫 How to reach me:
