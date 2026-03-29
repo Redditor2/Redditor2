@@ -20,14 +20,12 @@ Hi, I'm Cotton
 - email cottonisabunny@gmail.com
 
 🛠️ Skills & Tools:
+
 **Hardware**
 Raspberry Pi, Arduino
-
 **Networking**
 Nmap, Wireshark, Pi-hole, DNS
-
 **Languages**
 Python, Bash, Java
-
 **Tools**
 Git, GitHub, Linux, Flask, SSH
